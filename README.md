@@ -12,7 +12,7 @@ Muchas gracias por tu interés en hacer parte de este curso, debido a que tenemo
  - Se valorará la forma en que llego a la solución del caso.
  - Se valorará la utilidad de los comentarios que utilicé en el código.
  - Se debe adjuntar una breve explicación de la solución, si lo prefiere puede ser en un comentario dentro del código o en un archivo aparte .txt.
- - El plazo para enviar la prueba es hasta el día 18/02/2023 a las 8:00 AM, se valorará la eficiencia para el envío de la prueba. 
+ - El plazo para enviar la prueba es hasta el día 17/02/2023 a las 12:00 PM, se valorará la eficiencia para el envío de la prueba. 
  
  ## Caso número 1
  
