@@ -93,7 +93,7 @@ be rounded to 40.
 
 4. Student 4 received a grade below 33, so the grade will not be modified and the student's final grade is 33.
 
-## Caso número 1
+## Caso número 2
 
 ¿Por que crees que es importante crear una línea de atención dentro de la página web de la universidad que tenga un enfoque en casos basados en violencia de género?
 
